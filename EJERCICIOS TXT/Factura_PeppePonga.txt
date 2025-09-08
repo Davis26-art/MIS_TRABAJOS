@@ -1,0 +1,33 @@
+----------- FACTURA -----------
+
+EMISOR:
+-------------------------------
+Nombre: PeppePonga
+Dirección: cll 17k 16-05
+N° Identificación: 80541565
+
+-------------------------------
+
+CLIENTE:
+-------------------------------
+Nombre: david
+Dirección: cll 5b
+Teléfono: 56156
+
+-------------------------------
+
+PRODUCTOS COMPRADOS: 
+-------------------------------
+Manzana - $350
+Uvas - $250
+Piña - $500
+-------------------------------
+
+
+SUBTOTAL: $1100
+-------------------------------
+IVA (19%): $209.0
+TOTAL A PAGAR: $1309.0
+-------------------------------
+
+¡Gracias por comprar en PeppePonga!
